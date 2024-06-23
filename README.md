@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ```
 .
 ├── cmd
@@ -39,3 +40,7 @@
 ├── .gitignore           # Git忽略文件
 ├── go.
 ```
+=======
+# SmartTransitionSystem
+智慧校园质询系统
+>>>>>>> 96cf6eee6417ea7997e4059551419b88c24f977c
